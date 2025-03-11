@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Classic AUTOSAR.
+  name: elektrobit-tresis
+  tags:
+  - e/e-development
+  title: Elektrobit - Tresos
+spec:
+  type: SaaS
+  author: Elektrobit
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://portal.sdvworkbench.proserve.aws.dev/my-tools

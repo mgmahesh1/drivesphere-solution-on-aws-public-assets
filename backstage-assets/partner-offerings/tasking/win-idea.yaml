@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Live Debugging with target (vECU or ECU).
+  name: tasking-win-idea
+  tags:
+  - e/e-development
+  title: Tasking winIDEA
+spec:
+  type: SaaS
+  author: Tasking
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://portal.sdvworkbench.proserve.aws.dev/my-tools

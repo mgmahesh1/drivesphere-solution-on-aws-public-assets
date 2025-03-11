@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Remote access to dev kit.
+  name: infineon-aurix-tc4x
+  tags:
+  - e/e-development
+  title: Infineon Aurix TC4X
+spec:
+  type: SaaS
+  author: Infineon
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://portal.sdvworkbench.proserve.aws.dev/my-tools

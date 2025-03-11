@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Model based design.
+  name: mathworks-simulink
+  tags:
+  - e/e-development
+  title: Mathworks Simulink
+spec:
+  type: SaaS
+  author: Mathworks
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://portal.sdvworkbench.proserve.aws.dev/my-tools

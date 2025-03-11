@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Fleet Management Portal.
+  name: holistic-data-platform
+  tags:
+  - connected-mobility
+  title: AWS - Holistic Data Platform
+spec:
+  type: SaaS
+  author: AWS
+  authorPageUrl: https://aws.amazon.com/automotive/
+  url: https://d1nin90bpq4ot0.cloudfront.net/

@@ -5,5 +5,20 @@ metadata:
   description: A collection of all CMS partner offerings
 spec:
   targets:
+    - ./partner-offerings/aws/genai-powered-search.yaml
+    - ./partner-offerings/aws/holistic-data-platform.yaml
+    - ./partner-offerings/aws/scenario-generation.yaml
+    - ./partner-offerings/space/simphera.yaml
+    - ./partner-offerings/space/xil-platform.yaml
+    - ./partner-offerings/elektrobit/corbos.yaml
+    - ./partner-offerings/elektrobit/tresos.yaml
+    - ./partner-offerings/gitlab/project-repo.yaml
     - ./partner-offerings/here-technologies/here-tour-planning.yaml
-
+    - ./partner-offerings/infineon/aurix-tc4x.yaml
+    - ./partner-offerings/mathworks/simulink.yaml
+    - ./partner-offerings/panasonic/vskipgen-infotainment-ecu.yaml
+    - ./partner-offerings/rightware/kanzi-studio-dev-env.yaml
+    - ./partner-offerings/synopsys/silver.yaml
+    - ./partner-offerings/synopsys/silver.yaml
+    - ./partner-offerings/tasking/smart-code.yaml
+    - ./partner-offerings/tasking/win-idea.yaml

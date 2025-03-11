@@ -1,0 +1,15 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: GenAI-based scenario generation used for ADAS testing.
+  name: genai-powered-search
+  tags:
+  - genai
+  - search
+  - adas
+  title: AWS - GenAI powered search
+spec:
+  type: SaaS
+  author: AWS
+  authorPageUrl: https://aws.amazon.com/automotive/
+  url: https://aws.amazon.com/automotive/

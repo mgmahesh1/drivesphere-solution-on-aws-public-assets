@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Develop and simulate infotainment ECU.
+  name: panasonic-vskipgen-infotainment-ecu
+  tags:
+  - infotainment
+  title: Panasonic vSkipGen Infotainment ECU
+spec:
+  type: SaaS
+  author: dSpace
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://18.234.117.219:8443/

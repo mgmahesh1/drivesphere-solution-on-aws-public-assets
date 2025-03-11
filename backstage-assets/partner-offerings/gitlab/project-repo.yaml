@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Launch code refactoring.
+  name: gitlab-project-repo
+  tags:
+  - infotainment
+  title: GitLab Project Repo
+spec:
+  type: SaaS
+  author: dSpace
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://lab1.gitlab-qdev.ai.aws.dev/demos/kanzi-demo#

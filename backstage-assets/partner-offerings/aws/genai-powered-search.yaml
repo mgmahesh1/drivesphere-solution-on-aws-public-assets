@@ -1,0 +1,15 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Search for your ADAS scene dataset.
+  name: genai-powered-search
+  tags:
+  - genai
+  - search
+  - adas  
+  title: AWS - GenAI powered search
+spec:
+  type: SaaS
+  author: AWS
+  authorPageUrl: https://aws.amazon.com/automotive/
+  url: https://d15puwge5ieiuh.cloudfront.net/metadata-scenario

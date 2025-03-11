@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Virtual ECU for specific Hardware: Infineon Aurix TriCore.
+  name: synopsys-vdk
+  tags:
+  - e/e-development
+  title: Synopsys VDK
+spec:
+  type: SaaS
+  author: Synopsys
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://portal.sdvworkbench.proserve.aws.dev/my-tools

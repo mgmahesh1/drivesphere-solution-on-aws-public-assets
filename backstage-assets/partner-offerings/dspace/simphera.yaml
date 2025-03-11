@@ -1,0 +1,14 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: dSPACE Simphera is a cloud-based, scalable simulation platform designed to accelerate the development of autonomous vehicles by providing integrated tools for preparing, simulating, and validating autonomous driving functions.
+  name: dspace-simphera
+  tags:
+  - simulation
+  - adas
+  title: dSPACE - Simphera
+spec:
+  type: SaaS
+  author: dSpace
+  authorPageUrl: https://aws.amazon.com/automotive/partners
+  url: https://simphera.co-dev.sutteo.people.aws.dev/projects/e5a85ead-fc74-45f8-9f73-fc8a6ed1ac66
