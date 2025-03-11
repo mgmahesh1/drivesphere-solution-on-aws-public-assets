@@ -4,7 +4,7 @@ metadata:
   description: Virtual ECU.
   name: synopsys-silver
   tags:
-  - e/e-development
+  - e-e-development
   title: Synopsys Silver
 spec:
   type: SaaS

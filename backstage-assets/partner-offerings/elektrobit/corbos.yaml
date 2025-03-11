@@ -4,7 +4,7 @@ metadata:
   description: Adaptive AUTOSAR.
   name: elektrobit-corbos
   tags:
-  - e/e-development
+  - e-e-development
   title: Elektrobit - Corbos
 spec:
   type: SaaS

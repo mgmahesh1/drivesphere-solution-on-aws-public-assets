@@ -4,7 +4,7 @@ metadata:
   description: Live Debugging with target (vECU or ECU).
   name: tasking-win-idea
   tags:
-  - e/e-development
+  - e-e-development
   title: Tasking winIDEA
 spec:
   type: SaaS

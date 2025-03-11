@@ -4,7 +4,7 @@ metadata:
   description: Classic AUTOSAR.
   name: elektrobit-tresis
   tags:
-  - e/e-development
+  - e-e-development
   title: Elektrobit - Tresos
 spec:
   type: SaaS
