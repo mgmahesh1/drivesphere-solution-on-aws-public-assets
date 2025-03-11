@@ -1,0 +1,15 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Drivesphere Test-1.
+  name: drivesphere-offering1
+  tags:
+  - edge-computing
+  - cloud-solutions
+  title: Drivesphere Test-1
+  type: EdgeSuite
+spec:
+  type: SaaS
+  author: Here Technologies
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=cc033bc0-fe05-4d79-ba58-9a132b1fe9d3
+  url: https://aws.amazon.com/marketplace/pp/prodview-izb3zaa6bhepo?sr=0-2&ref_=beagle&applicationId=AWSMPContessa
