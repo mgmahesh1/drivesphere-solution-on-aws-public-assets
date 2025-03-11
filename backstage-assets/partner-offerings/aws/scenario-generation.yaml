@@ -4,9 +4,7 @@ metadata:
   description: GenAI-based scenario generation used for ADAS testing.
   name: genai-powered-search
   tags:
-  - genai
-  - search
-  - adas
+  - DriveSphere
   title: AWS - GenAI powered search
 spec:
   type: SaaS

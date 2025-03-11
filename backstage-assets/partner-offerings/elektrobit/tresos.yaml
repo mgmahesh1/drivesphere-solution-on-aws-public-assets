@@ -4,7 +4,7 @@ metadata:
   description: Classic AUTOSAR.
   name: elektrobit-tresis
   tags:
-  - e-e-development
+  - DriveSphere
   title: Elektrobit - Tresos
 spec:
   type: SaaS

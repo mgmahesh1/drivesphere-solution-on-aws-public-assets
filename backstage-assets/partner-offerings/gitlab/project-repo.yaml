@@ -4,7 +4,7 @@ metadata:
   description: Launch code refactoring.
   name: gitlab-project-repo
   tags:
-  - infotainment
+  - DriveSphere
   title: GitLab Project Repo
 spec:
   type: SaaS

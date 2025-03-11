@@ -4,7 +4,7 @@ metadata:
   description: Adaptive AUTOSAR.
   name: elektrobit-corbos
   tags:
-  - e-e-development
+  - DriveSphere
   title: Elektrobit - Corbos
 spec:
   type: SaaS

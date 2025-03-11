@@ -4,9 +4,7 @@ metadata:
   description: HERE Tour Planning allows AWS developers to dynamically optimize routes for multiple vehicles visiting a set of locations given real-life constraints.
   name: here-tour-planning
   tags:
-  - routing
-  - logistics
-  - optimization
+  - AWS Marketplace
   title: HERE Tour Planning
 spec:
   type: SaaS

@@ -4,7 +4,7 @@ metadata:
   description: Model based design.
   name: mathworks-simulink
   tags:
-  - e-e-development
+  - DriveSphere
   title: Mathworks Simulink
 spec:
   type: SaaS
