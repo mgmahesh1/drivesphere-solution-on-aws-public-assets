@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Drivesphere partner offerings
 spec:
   targets:
-    - ./partner-offerings/sample/sample.yaml
+    - ./partner-offerings/here-technologies/here-tour-planning.yaml
