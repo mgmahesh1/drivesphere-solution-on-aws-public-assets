@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: cms-partner-offerings
+  name: drivesphere-partner-offerings
   description: A collection of all CMS partner offerings
 spec:
   targets:
