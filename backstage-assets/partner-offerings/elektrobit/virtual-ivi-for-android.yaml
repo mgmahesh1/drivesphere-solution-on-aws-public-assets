@@ -1,0 +1,13 @@
+apiVersion: aws.amazon.com/v1beta1
+kind: PartnerOffering
+metadata:
+  description: Elektrobit virtual environment and emulator tools for hardware-agnostic, end-to-end development of Android applications on (AAOS) Android Automotive OS projects.
+  name: elektrobit-virtual-ivi-for-android
+  tags:
+  - virtual-target
+  title: Elektrobit - Virtual IVI Development for Android
+spec:
+  type: SaaS
+  author: Elektrobit
+  authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=seller-a363nizz47a2e
+  url: https://aws.amazon.com/marketplace/pp/prodview-cd2wojukd63xg
