@@ -4,7 +4,7 @@ metadata:
   description: Live Debugging with target (vECU or ECU).
   name: tasking-win-idea
   tags:
-  - DriveSphere
+  - drivesphere
   title: Tasking winIDEA
 spec:
   type: SaaS

@@ -4,7 +4,7 @@ metadata:
   description: Remote access to dev kit.
   name: infineon-aurix-tc4x
   tags:
-  - DriveSphere
+  - drivesphere
   title: Infineon Aurix TC4X
 spec:
   type: SaaS

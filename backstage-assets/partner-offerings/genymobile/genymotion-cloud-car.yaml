@@ -4,7 +4,7 @@ metadata:
   description: An Android Automotive emulator on EC2. With AWS APIs, you can build or extend your own solution on top of Genymotion. Embed it into your website or product to promote your application.
   name: genymotion-cloud-car
   tags:
-  - AWS Marketplace
+  - aws-marketplace
   title: Genymotion Cloud Car - Android Automotive OS 14.0 (arm64)
 spec:
   type: SaaS

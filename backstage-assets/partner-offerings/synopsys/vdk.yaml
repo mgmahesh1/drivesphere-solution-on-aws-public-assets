@@ -4,7 +4,7 @@ metadata:
   description: Virtual ECU for specific Hardware: Infineon Aurix TriCore.
   name: synopsys-vdk
   tags:
-  - DriveSphere
+  - drivesphere
   title: Synopsys VDK
 spec:
   type: SaaS

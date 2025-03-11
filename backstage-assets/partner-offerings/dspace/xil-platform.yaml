@@ -4,7 +4,7 @@ metadata:
   description: dSPACE XIL Platform utilizes the ASAM XIL standard, enabling seamless communication between test automation tools and test benches across various development stages, including model-in-the-loop (MIL), software-in-the-loop (SIL), and hardware-in-the-loop (HIL) testing.
   name: dspace-xil-platform
   tags:
-  - DriveSphere  
+  - drivesphere  
   title: dSPACE - Simphera
 spec:
   type: SaaS

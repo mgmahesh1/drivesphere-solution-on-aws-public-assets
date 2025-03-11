@@ -4,7 +4,7 @@ metadata:
   description: Search for your ADAS scene dataset.
   name: genai-powered-search
   tags:
-  - DriveSphere
+  - drivesphere
   title: AWS - GenAI powered search
 spec:
   type: SaaS
