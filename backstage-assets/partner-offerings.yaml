@@ -8,8 +8,8 @@ spec:
     - ./partner-offerings/aws/genai-powered-search.yaml
     - ./partner-offerings/aws/holistic-data-platform.yaml
     - ./partner-offerings/aws/scenario-generation.yaml
-    - ./partner-offerings/space/simphera.yaml
-    - ./partner-offerings/space/xil-platform.yaml
+    - ./partner-offerings/dspace/simphera.yaml
+    - ./partner-offerings/dspace/xil-platform.yaml
     - ./partner-offerings/elektrobit/corbos.yaml
     - ./partner-offerings/elektrobit/tresos.yaml
     - ./partner-offerings/gitlab/project-repo.yaml
