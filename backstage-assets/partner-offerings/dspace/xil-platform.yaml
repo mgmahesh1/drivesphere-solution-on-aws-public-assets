@@ -5,7 +5,7 @@ metadata:
   name: dspace-xil-platform
   tags:
   - drivesphere  
-  title: dSPACE - Simphera
+  title: dSPACE - XIL Platform
 spec:
   type: SaaS
   author: dSpace
