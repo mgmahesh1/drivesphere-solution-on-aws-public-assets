@@ -6,6 +6,7 @@ metadata:
   tags:
     - drivesphere
 spec:
+  type: virtual target
   lifecycle: subscribed
   owner: team-name
   system: target
