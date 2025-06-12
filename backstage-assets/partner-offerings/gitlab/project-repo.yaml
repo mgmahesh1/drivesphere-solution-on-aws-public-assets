@@ -8,6 +8,6 @@ metadata:
   title: GitLab Project Repo
 spec:
   type: SaaS
-  author: dSpace
+  author: GitLab
   authorPageUrl: https://aws.amazon.com/marketplace/seller-profile?id=9657c703-ca56-4b54-b029-9ded0fadd970
   url: https://aws.amazon.com/marketplace/pp/prodview-amk6tacbois2k

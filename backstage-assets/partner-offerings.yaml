@@ -10,4 +10,3 @@ spec:
     - ./partner-offerings/genymobile/genymotion-cloud-car.yaml
     - ./partner-offerings/here-technologies/here-tour-planning.yaml
     - ./partner-offerings/panasonic/vskipgen-infotainment-ecu.yaml
-    - ./partner-offerings/rightware/kanzi-studio-dev-env.yaml
