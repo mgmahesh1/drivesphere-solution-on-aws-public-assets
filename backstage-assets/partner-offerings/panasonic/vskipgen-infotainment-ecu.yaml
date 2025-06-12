@@ -4,7 +4,7 @@ metadata:
   description: Develop and simulate infotainment ECU.
   name: panasonic-vskipgen-infotainment-ecu
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Panasonic vSkipGen Infotainment ECU
 spec:
   type: SaaS

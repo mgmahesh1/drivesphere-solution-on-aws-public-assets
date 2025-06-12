@@ -4,7 +4,7 @@ metadata:
   description: Model based design.
   name: mathworks-simulink
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Mathworks Simulink
 spec:
   type: SaaS

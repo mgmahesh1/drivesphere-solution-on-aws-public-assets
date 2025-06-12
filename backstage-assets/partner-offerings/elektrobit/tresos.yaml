@@ -4,7 +4,7 @@ metadata:
   description: Classic AUTOSAR.
   name: elektrobit-tresis
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Elektrobit - Tresos
 spec:
   type: SaaS

@@ -4,7 +4,7 @@ metadata:
   name: Panasonic-vskipgen 
   description: Panasonic Automotive Virtual SkipGen (vSkipGen™) is a product which allows software teams to develop target code without the hardware, further strengthening the value chain and bar raising the automaker’s target quality for the end customer.
   tags:
-    - drivesphere
+    - aws-partner-sdv
 spec:
   type: virtual target
   lifecycle: subscribed

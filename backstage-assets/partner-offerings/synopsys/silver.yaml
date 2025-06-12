@@ -4,7 +4,7 @@ metadata:
   description: Virtual ECU.
   name: synopsys-silver
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Synopsys Silver
 spec:
   type: SaaS

@@ -4,7 +4,7 @@ metadata:
   description: Optimized compiler for Classic AUTOSAR.
   name: tasking-smart-code
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Tasking Smart Code
 spec:
   type: SaaS

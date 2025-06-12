@@ -4,7 +4,7 @@ metadata:
   description: dSPACE Simphera is a cloud-based, scalable simulation platform designed to accelerate the development of autonomous vehicles by providing integrated tools for preparing, simulating, and validating autonomous driving functions.
   name: dspace-simphera
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: dSPACE - Simphera
 spec:
   type: SaaS

@@ -4,7 +4,7 @@ metadata:
   description: A comprehensive tool for designing and developing interactive automotive user interfaces, offering advanced graphics rendering, a powerful scripting engine, and seamless integration of 2D and 3D UI components.
   name: kanzi-studio-dev-env
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: Rightware Kanzi Studio Dev Env
 spec:
   type: SaaS

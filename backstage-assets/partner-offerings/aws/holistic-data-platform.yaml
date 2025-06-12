@@ -4,7 +4,7 @@ metadata:
   description: Fleet Management Portal.
   name: holistic-data-platform
   tags:
-  - drivesphere
+  - aws-partner-sdv
   title: AWS - Holistic Data Platform
 spec:
   type: SaaS
